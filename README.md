@@ -1,16 +1,41 @@
-## Hi there 👋
+# Santiago López Buitrago
 
-<!--
-**santiagolopezit/santiagolopezit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Administrador de Infraestructura TI | Redes | Virtualización | PHP/MySQL
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante de Ingeniería de Sistemas con experiencia en administración de infraestructura tecnológica, servidores, virtualización, seguridad informática y desarrollo web interno.
+
+## Tecnologías
+
+- Windows Server
+- Hyper-V
+- VMware
+- Fortinet
+- Active Directory
+- PHP
+- MySQL
+- JavaScript
+- Linux CentOS
+- Nagios
+- PowerShell
+
+## Experiencia
+
+- Administración de infraestructura empresarial
+- Gestión documental
+- Redes y seguridad
+- Automatización de procesos
+- Desarrollo de software interno
+
+## Actualmente trabajando en
+
+- Sistema documental GDS
+- Automatización PowerShell
+- Infraestructura TI
+- Seguridad informática
+
+## Contacto
+
+- LinkedIn: https://www.linkedin.com/in/santiago-lopez-tic/
+- Correo: tiagolopezb@hotmail.com
